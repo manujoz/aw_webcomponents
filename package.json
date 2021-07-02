@@ -1,0 +1,17 @@
+{
+  "version": "1.0.3",
+  "author": {
+    "name": "The Polymer Project Authors"
+  },
+  "deprecated": false,
+  "description": "Web Components adaptado por Arisman Webs.",
+  "keywords": [
+    "Arisman Webs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manujoz/aw_webcomponents.git"
+  },
+  "license": "ISC",
+  "name": "aw_webcomponents"
+}
